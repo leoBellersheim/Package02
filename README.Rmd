@@ -18,6 +18,8 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 [![CRAN status](https://www.r-pkg.org/badges/version/Package02)](https://CRAN.R-project.org/package=Package02)
+[![R-CMD-check](https://github.com/leoBellersheim/Package02/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/leoBellersheim/Package02/actions/workflows/R-CMD-check.yaml)
+[![Codecov test coverage](https://codecov.io/gh/leoBellersheim/Package02/graph/badge.svg)](https://app.codecov.io/gh/leoBellersheim/Package02)
 <!-- badges: end -->
 
 The goal of Package02 is to ...
